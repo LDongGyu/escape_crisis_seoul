@@ -1,0 +1,5 @@
+<resources>
+    <string name="Start">시작화면</string>
+    <string name="app_name">위기탈출!서울시!</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
