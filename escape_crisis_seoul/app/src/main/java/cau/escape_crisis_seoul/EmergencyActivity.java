@@ -15,6 +15,7 @@ public class EmergencyActivity extends Activity {
         setContentView(R.layout.activity_emergency);
 
         /*처음 전화걸기 버튼을 눌렀을시 지정한 전화번호로 이동하는것 내용저장*/
+        /*
         Button callButton = (Button) findViewById(R.id.call_button);
         callButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -23,7 +24,7 @@ public class EmergencyActivity extends Activity {
                         Uri.parse("tel:01046537612"));
                 startActivity(i);
             }
-        });
+        });*/
 
     }
 }
