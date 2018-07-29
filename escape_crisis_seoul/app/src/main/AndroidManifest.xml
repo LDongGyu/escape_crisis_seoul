@@ -18,12 +18,40 @@
         </activity>
         <activity
             android:name=".StartActivity"
-            android:label="@string/Start">
-        </activity>
+            android:label="@string/Start"></activity>
         <activity
             android:name=".EmergencyActivity"
-            android:label="응급">
-        </activity>
+            android:label="응급"></activity>
+        <activity
+            android:name=".EmergencyActivity_bee"
+            android:label="벌"></activity>
+        <activity
+            android:name=".EmergencyActivity_burn"
+            android:label="화상"></activity>
+        <activity
+            android:name=".EmergencyActivity_cpr"
+            android:label="심폐소생술"></activity>
+        <activity
+            android:name=".EmergencyActivity_dog"
+            android:label="개"></activity>
+        <activity
+            android:name=".EmergencyActivity_drug"
+            android:label="약물과다복용"></activity>
+        <activity
+            android:name=".EmergencyActivity_fracture"
+            android:label="골절"></activity>
+        <activity
+            android:name=".EmergencyActivity_frostbite"
+            android:label="동상"></activity>
+        <activity
+            android:name=".EmergencyActivity_heatstroke"
+            android:label="일사병"></activity>
+        <activity
+            android:name=".EmergencyActivity_scratch"
+            android:label="찰과상"></activity>
+        <activity
+            android:name=".EmergencyActivity_snake"
+            android:label="뱀"></activity>
 
     </application>
 
